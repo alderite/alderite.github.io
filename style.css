@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*console*/
+body {
+  background: #111;
+}
+.hidden {
+  opacity:0;
+}
+
+.projects {
+    height: 100vh;
+    background-color: #31037D;
+}
+
+.landing {
+    height: 100vh;
+}
